@@ -6,7 +6,6 @@ Clone of TikTok with Flutter and Firebase.
 
 <img src="https://raw.githubusercontent.com/salvadordeveloper/TikTok-Flutter/master/images/screenshot.png" alt="drawing" width="200"/>
 
-
 Video Demo: https://youtu.be/sMKg6ILYgv0 
 
 ## Caracteristics 
@@ -41,9 +40,9 @@ flutter pub get
 
 ## Database
 
-The app obtains the data from Firestore and Firebase Storage. The format is Firestore is : 
+The app obtains the data from Firestore and Firebase Storage. The format of data in Firestore is : 
 
-<img src="https://raw.githubusercontent.com/salvadordeveloper/TikTok-Flutter/master/images/firestore_database.png" alt="drawing" width="500"/>
+<img src="https://raw.githubusercontent.com/salvadordeveloper/TikTok-Flutter/master/images/database.png" alt="drawing" width="500"/>
 
 I use Firebase Storage for videos and Profile Pic's, but you can set the URL to any server that you want.
 
